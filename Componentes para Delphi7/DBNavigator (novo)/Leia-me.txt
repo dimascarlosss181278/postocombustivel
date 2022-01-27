@@ -1,0 +1,10 @@
+==============================DBNavigator com novos Glyfhs=================================
+
+DBNavigator com cara nova, mais profissionalismo na sua aplicação.
+Para instalar copie o arquivo "dbctrls" e coloque dentro do diretório LIB, substituindo o original.
+Compile sua aplicação e veja o resultado.
+
+OBS Faça um Backup do original antes, caso Você não goste é só restaurar.
+
+messiascapital@yahoo.com.br
+--------------------------

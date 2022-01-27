@@ -1,0 +1,17 @@
+1 - passagem do campo setor para fazenda ao clicar no grid da tela de consulta
+2 - erro na consulta ao digita na tela de consulta de setor (AdoQFunc: Field 'FUNCAO' not found.)
+3 - no evento onenter no campo editturno ao nao localizar um turno valido esta passando o campo 
+motorista
+4 - falta exibir o nome no label motorista
+5 - ao selecionar o tipo de saida limpar os campos turno, motorista, centro custo
+6 - evento on keypress nao consulta o setor e nao traz o nome do setor no labelsetor
+7 - evento on keypress nao consulta a faz e nao traz o nome do fazenda no labelfazenda
+8 - evento on keypress nao consulta a atividade e nao traz o nome do atividade no labelatividade
+9 - ao clicar no campo fazenda esta apagando os campos dos combobox's 1 e 2 e seus campos, alem do 
+campo motorista
+10 - no evento onclick do setor esta limpando todos os campos combobox's, edits (tipos,turno,motorista)
+11 - taborder do campo motorista ta errado
+12 - a pesquisa do campo turno ta errado
+13 - ao digitar o campo tipo de saida habilitar o campo motorista se ele tiver desabilitado
+
+

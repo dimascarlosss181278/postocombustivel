@@ -1,0 +1,6 @@
+para usa-lo: HintBalloon1.AddToolInfo(Handle,seucomponente.Handle); Sempre que por o mouse sobre o componente aparecerá o balão não precisa da propriedade showhint.
+
+
+
+vc liga o hint ao componente ex:HintBalloon1.AddToolInfo(Handle,edit1.Handle)
+onde: Handle é o do form e o edit1.Handle é o do componente
